@@ -13,6 +13,7 @@ export default class Test extends Component {
     render() {
         return (
             <div>
+                alksdglasdjg
                 you clicked {this.state.num} time~~~
 
                 asdgasdg
